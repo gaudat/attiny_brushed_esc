@@ -2,8 +2,8 @@
 Brushed motor driver with Digispark clone and driver boards
 
 ### Parts
-* [Digispark ATTiny clone](https://item.taobao.com/item.htm?id=528589975290)
-* ["36V 360W" full bridge board](https://item.taobao.com/item.htm?id=20509935647)
+* [Digispark ATTiny clone](https://digistump.com/wiki/digispark/quickref) [Taobao](https://item.taobao.com/item.htm?id=528589975290)
+* ["36V 360W" full bridge board](http://akelc.com/DCMotorHBridge/show_34.html) [Taobao](https://item.taobao.com/item.htm?id=20509935647)
 * Wires with XH terminations for signal
 * Thick enough wires for power
 
